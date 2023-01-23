@@ -166,3 +166,13 @@ body {
     border-radius: 25px; 
     */    
 }
+
+.ContentThree {
+    display: flex;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    padding: 125px 570px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
