@@ -153,9 +153,13 @@ body {
 }
 
 .textbox {
+    text-align: center;
     width: 250px;
     height: 250px;
-
+    font-size: 18px;
+    line-height:20px;
+    color: #6b6b6b;
+/* Debugging */
     background-color: white;
     border-width: 20px;
     border: solid #3882f6 5px;
