@@ -135,8 +135,8 @@ body {
 }
 
 .boxes {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     background-color: white;
     border-width: 20px;
     border: solid #3882f6 5px;
@@ -147,22 +147,22 @@ body {
 .container-text {
     display:flex;
     justify-content: center;
-    gap: 50px;
+    gap: 75px;
     
 
 }
 
 .textbox {
     text-align: center;
-    width: 250px;
-    height: 250px;
+    width: 175px;
     font-size: 18px;
     line-height:20px;
-    color: #6b6b6b;
+    color: #adadad;
+    border: solid white 5px;
 /* Debugging */
-    background-color: white;
+    /* background-color: white;
     border-width: 20px;
     border: solid #3882f6 5px;
     border-radius: 25px; 
-    
+    */    
 }
