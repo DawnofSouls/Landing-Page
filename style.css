@@ -170,9 +170,27 @@ body {
 .ContentThree {
     display: flex;
     background-color: #e5e7eb;
+    flex-direction: column;
+
+}
+
+.Quote {
+    display: flex;
     font-size: 36px;
-    padding: 125px 570px;
+    padding: 125px 570px 0px 570px;
     font-style: italic;
     font-weight: lighter;
     color: #1f2937;
+    margin: 0;
+}
+
+.author {
+    display: flex;
+    color: #1f2937;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0px 585px;
+    justify-content: flex-end;
+    padding-bottom: 125px;
 }
