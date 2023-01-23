@@ -194,3 +194,15 @@ body {
     justify-content: flex-end;
     padding-bottom: 125px;
 }
+
+.ContentFour {
+    background-color: white;
+}
+
+.BlueBox {
+    background: #3882f6;
+}
+
+.WhiteBorderButton {
+    background: #3882f6;
+}
