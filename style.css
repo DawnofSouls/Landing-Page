@@ -1,8 +1,8 @@
 
 button {
-    width:100px;
-    border-radius: 5px;
-    height: 25px;
+    width:125px;
+    border-radius: 7px;
+    height: 45px;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     border: 0px;
 }
@@ -23,6 +23,8 @@ body {
     flex-direction: column;
     font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     margin: 0;
+    background-color: white;
+    padding: 0px 0px;
     
     
 }
@@ -195,3 +197,36 @@ body {
     padding-bottom: 125px;
 }
 
+.ContentFour {
+    display: flex;
+    background-color: #3882f6;
+    justify-content: space-between;
+    margin: 171px 310px;
+    border-radius: 8px;
+    padding: 64px 308px;
+}
+
+.CFLeft1 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+.CFLeft2 {
+    color: white;
+    margin: 0;
+}
+
+.CFRight {
+    align-self: center;
+}
+
+.WhiteBorderButton {
+    background-color: #3882f6;
+    color: white;
+    border: solid white 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
