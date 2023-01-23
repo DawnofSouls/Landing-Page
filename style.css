@@ -122,6 +122,10 @@ body {
 
 }
 
+.ContentTwo {
+    margin-bottom: 50px;
+}
+
 .container-boxes {
     display:flex;
     justify-content: center;
@@ -133,6 +137,25 @@ body {
 .boxes {
     width: 250px;
     height: 250px;
+    background-color: white;
+    border-width: 20px;
+    border: solid #3882f6 5px;
+    border-radius: 25px; 
+    
+}
+
+.container-text {
+    display:flex;
+    justify-content: center;
+    gap: 50px;
+    
+
+}
+
+.textbox {
+    width: 250px;
+    height: 250px;
+
     background-color: white;
     border-width: 20px;
     border: solid #3882f6 5px;
