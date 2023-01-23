@@ -106,13 +106,7 @@ body {
 }
 
 
-.footer {
-    display: flex;
-    background-color: #1f2937;
-    color: white;
-    justify-content: center;
-    align-items: center;
-}
+
 
 .CTwoTitle {
     display: flex;
@@ -229,4 +223,13 @@ body {
     border: solid white 2px;
     font-size: 20px;
     font-weight: bold;
+}
+
+.footer {
+    display: flex;
+    background-color: #1f2937;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0px;
 }
